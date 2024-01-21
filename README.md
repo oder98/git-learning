@@ -15,4 +15,9 @@ git push
 2. we need to have Github account
 3. github account setup in Intellij
 
-test123
+git pull
+
+
+git branches
+
+adding new features
